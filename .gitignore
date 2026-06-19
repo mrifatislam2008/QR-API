@@ -1,0 +1,40 @@
+# Node.js Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# Vercel
+.vercel/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE Files
+.vscode/
+.idea/
+
+# Coverage Reports
+coverage/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Build Output
+dist/
+build/
+
+# Package Lock (ঐচ্ছিক)
+# package-lock.json
+# yarn.lock
