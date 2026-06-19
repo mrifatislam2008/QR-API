@@ -1,0 +1,28 @@
+{
+  "keys": [
+    {
+      "key": "RIFAT_KEY_001",
+      "owner": "Md Rifat Islam",
+      "active": true,
+      "limit": 1000,
+      "used": 0,
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "RIFAT_KEY_002",
+      "owner": "Premium User",
+      "active": true,
+      "limit": 5000,
+      "used": 0,
+      "expires": "2026-12-31"
+    },
+    {
+      "key": "TEST_KEY_123",
+      "owner": "Test User",
+      "active": false,
+      "limit": 100,
+      "used": 0,
+      "expires": "2026-06-30"
+    }
+  ]
+}
